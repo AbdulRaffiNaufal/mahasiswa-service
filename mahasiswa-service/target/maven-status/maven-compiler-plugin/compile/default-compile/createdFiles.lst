@@ -1,0 +1,6 @@
+com\naufal\mahasiswa\service\repository\MahasiswaRepository.class
+com\naufal\mahasiswa\service\dto\Mahasiswa.class
+com\naufal\mahasiswa\service\MahasiswaServiceApplication.class
+com\naufal\mahasiswa\service\controller\MahasiswaController.class
+com\naufal\mahasiswa\service\MahasiswaImpl.class
+com\naufal\mahasiswa\service\userservice\MahasiswaService.class
